@@ -6,6 +6,7 @@ body {
     min-height: 400px;
     margin-bottom: 50px;
     clear: both;
+    background-image: url("../images/about_me.jpg")
  }
  
  h3 {
